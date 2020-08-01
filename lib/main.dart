@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Noto Sans',
       ),
       debugShowCheckedModeBanner: false,
-      home: LoginPage(),
+      home: TabLayout(),
       routes: {        //라우트는 해당 화면으로 가라는 의미
         HomeScreen.id: (context) => HomeScreen(),  //시작하는 HomeScreen 함수는 있어야 함.
         SearchScreen.id: (context) => SearchScreen(),
