@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769152140439",
+    "firebase_url": "https://stard-1st.firebaseio.com",
+    "project_id": "stard-1st",
+    "storage_bucket": "stard-1st.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769152140439:android:694fe2996ac9492abb15d2",
+        "android_client_info": {
+          "package_name": "com.issuecon.stard1stprojectrev0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769152140439-1b2erd1jmtb0u8j49ag8p09a2f7a022d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtkAkB2SiOsoeYj3VZZiyP_P2YSQNkPY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769152140439-1b2erd1jmtb0u8j49ag8p09a2f7a022d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
